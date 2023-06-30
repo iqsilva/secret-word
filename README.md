@@ -24,9 +24,9 @@
 </p>
 
 ## Screenshots
-![Example screenshot](./src/img/example1.png)
-![Example screenshot](./src/img/example2.png)
-![Example screenshot](./src/img/example3.png)
+![Example screenshot](./src/img/example1.PNG)
+![Example screenshot](./src/img/example2.PNG)
+![Example screenshot](./src/img/example3.PNG)
 
 ## Setup
 ### Getting Started with Create React App
