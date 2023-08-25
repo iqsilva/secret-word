@@ -1,5 +1,6 @@
 # Project Name
 > React app game for guessing the secret word.
+> Live version here: https://secret-word-iqsilva.vercel.app/
 
 ## Table of Contents
 * [General Info](#general-information)
